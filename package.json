@@ -25,10 +25,10 @@
   "homepage": "https://github.com/Kiptong/web-api#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0",
     "eslint": "3.19.0",
     "eslint-config-standard": "10.2.1",
     "eslint-plugin-import": "2.3.0",
@@ -38,6 +38,7 @@
     "eslint-plugin-standard": "3.0.1",
     "htmlhint": "0.9.13",
     "husky": "0.13.4",
+    "nodemon": "^1.11.0",
     "npm-run-all": "4.0.2",
     "stylelint": "7.10.1",
     "stylelint-config-standard": "16.0.0"
