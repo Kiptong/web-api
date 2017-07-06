@@ -6,6 +6,9 @@ const jsonparser = bodyParser.json()
 
 const notes = []
 
+app.get('/notes', (req, res) => {
+})
+
 app.use(jsonparser)
 
 app.post('/notes', (req, res) => {
